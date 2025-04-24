@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Yogesh
+- 👀 I’m interested in Backend devlopment | Java devloper| Frontend devloper | FLutter developer
+- 🌱 I’m currently Pursuing MCA
+- Full Stack Java Developer | Flutter Developer
+- Programmng : JAVA | PYTHON | DART | C 
+- Framewoks : Spring | Spring Boot | Data JPA | Spring MVC | REST API | Security | Data Rest
+- Tools : Maven | GIT | Androd Studio | IntelliJ
+- Database : MySQL 
+- Front-End : HTML | CSS | JS | C |
+- Problem Solving : Data Structure 
+- 📫 You can contact me through gmail 📥: yogeshdhakane2002@gmail.com
+- Connect me on Linkdin https://www.linkedin.com/in/yogesh-dhakane-640a0122a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- ⚡ Fun fact: write the code and solve the new problem
