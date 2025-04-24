@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh
-- 👀 I’m interested in Backend devlopment | Java devloper| Frontend devloper | FLutter developer
+- 👀 I’m interested in Backend devlopment | Java devloper | Frontend devloper | FLutter developer
 - 🌱 I’m currently Pursuing MCA
 - Full Stack Java Developer | Flutter Developer
 - Programmng : JAVA | PYTHON | DART | C 
