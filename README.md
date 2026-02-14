@@ -1,12 +1,12 @@
 - Hi, I’m Yogesh
 - I am FullStack Developer | Java | Flutter | Angular
 - Programmng : JAVA | PYTHON | DART | C 
-- Backed Framewoks : Spring | Spring Boot | Data JPA | Spring MVC | REST API | Spring Security | Data Rest
-- Tools : Maven | GIT | GITLAB | Androd Studio | IntelliJ | VS Code
+- Backed Framewoks : Spring | Spring Boot | Spring Data JPA | Spring Web MVC | REST API | Spring Security | Spring Data Rest | Django
+- Tools : Maven | GIT | GITLAB | Android Studio | IntelliJ idea | VS Code
 - Security : JWT
 - Database : MySQL | PostgreSQL | SQLite
 - Website Front-End : HTML | CSS | Javascript | Typescript | Angular
 - Mobile Front-End : Flutter
 - Problem Solving : Data Structures and Algorithms 
-- 📫 You can contact me through gmail 📥: yogeshdhakane2002@gmail.com
+- You can contact me through gmail 📥: yogeshdhakane2002@gmail.com
 - Connect me on Linkdin https://www.linkedin.com/in/yogesh-dhakane-640a0122a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
