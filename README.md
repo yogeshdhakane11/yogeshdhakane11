@@ -8,5 +8,5 @@
 - Website Front-End : HTML | CSS | Javascript | Typescript | Angular
 - Mobile Front-End : Flutter
 - Problem Solving : Data Structures and Algorithms 
-- You can contact me through gmail 📥: yogeshdhakane2002@gmail.com
+- You can contact me through gmail 📥: yogeshdhakane001@gmail.com
 - Connect me on Linkdin https://www.linkedin.com/in/yogesh-dhakane-640a0122a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
