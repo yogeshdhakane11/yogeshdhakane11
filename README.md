@@ -1,8 +1,8 @@
 - Hi, I’m Yogesh
-- I am FullStack Developer | Java | Flutter | Angular | Django
-- Programmng : JAVA | PYTHON | DART | TYPESCRIPT | C
-- Backed Framewoks : Spring | Spring Boot | Spring Data JPA | REST API | Spring Security | Data Rest | Django
-- Tools : Maven | GIT | GITLAB | Android Studio | IntelliJ idea | VS Code
+- I am FullStack Developer | Spring Boot | Angular | Flutter
+- Programmng : JAVA | PYTHON | TYPESCRIPT
+- Backed Framewoks : Spring | Spring Boot | Spring Data JPA | REST API | Spring Security | Data Rest
+- Tools : Maven | GIT | GITLAB | Android Studio | IntelliJ idea | VS Code | Postman
 - Security : JWT
 - Database : MySQL | PostgreSQL | SQLite
 - Website Front-End : HTML | CSS | Javascript | Typescript | Angular
